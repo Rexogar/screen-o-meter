@@ -2,4 +2,4 @@
 Screen time tracker
 
 ## Features
-- Create a report based on event logs
+- Create a weekly report based on event logs
